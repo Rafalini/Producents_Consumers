@@ -1,4 +1,4 @@
-# SOI_project_t4
+# Synchronization problem: Producent - Consumer
 Consumer-producer problem on monitors.
 
 To start program:
